@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0018-4sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0011-container-with-most-water) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Trie
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0018-4sum) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Backtracking
 |  |
 | ------- |
