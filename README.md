@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0024-swap-nodes-in-pairs) |
 ## String
 |  |
 | ------- |
