@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
