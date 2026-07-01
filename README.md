@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0018-4sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0004-median-of-two-sorted-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,8 +118,21 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0023-merge-k-sorted-lists) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0023-merge-k-sorted-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
