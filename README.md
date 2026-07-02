@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
