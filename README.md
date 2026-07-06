@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0055-jump-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -147,12 +148,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0055-jump-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Trie
 |  |
