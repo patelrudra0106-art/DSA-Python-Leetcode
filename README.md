@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0066-plus-one) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
