@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0045-jump-game-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -131,11 +132,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0045-jump-game-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Trie
 |  |
