@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0068-text-justification) |
+| [1288-remove-covered-intervals](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0056-merge-intervals) |
+| [1288-remove-covered-intervals](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1288-remove-covered-intervals) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Backtracking
 |  |
