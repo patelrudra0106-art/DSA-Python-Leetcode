@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0058-length-of-last-word) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
