@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -303,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Tree
+|  |
+| ------- |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 <!---LeetCode Topics End-->
