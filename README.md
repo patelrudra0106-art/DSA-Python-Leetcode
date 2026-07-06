@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0053-maximum-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
