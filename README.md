@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0079-word-search) |
 | [1288-remove-covered-intervals](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0079-word-search) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0052-n-queens-ii](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0079-word-search) |
 | [1301-number-of-paths-with-max-score](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0079-word-search) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Tree
 |  |
