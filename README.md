@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0040-combination-sum-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0040-combination-sum-ii) |
 ## Stack
 |  |
 | ------- |
