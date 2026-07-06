@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0072-edit-distance) |
+| [3620-network-recovery-pathways](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0023-merge-k-sorted-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/3620-network-recovery-pathways) |
 ## Merge Sort
 |  |
 | ------- |
@@ -253,10 +257,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/3620-network-recovery-pathways) |
 ## String Matching
 |  |
 | ------- |
@@ -286,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/0070-climbing-stairs) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/patelrudra0106-art/Leetcode-python/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
